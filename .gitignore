@@ -9,3 +9,6 @@ wheels/
 # Virtual environments
 .venv
 .vscode
+
+# Local planning artifacts
+.tmp/
